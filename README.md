@@ -1,0 +1,2 @@
+# primer
+implemention of datastructure
